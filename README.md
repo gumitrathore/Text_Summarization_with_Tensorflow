@@ -31,4 +31,4 @@ I uploaded three **.py** and three **.ipynb** files. The .py files contain the n
 - Adam Optimizer
 - exponential or cyclic learning rate
 - Beam Search or Greedy Decoding
-
+--

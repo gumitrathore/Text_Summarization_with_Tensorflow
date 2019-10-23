@@ -15,7 +15,7 @@ I tried the network on three different datasets.
 2. Github issues dataset
 3. All the news dataset
 
-All three of them are available on Kaggle:
+All Three of them are available on Kaggle:
 - https://www.kaggle.com/snap/amazon-fine-food-reviews/data
 - https://www.kaggle.com/davidshinn/github-issues
 - https://www.kaggle.com/snapcrack/all-the-news

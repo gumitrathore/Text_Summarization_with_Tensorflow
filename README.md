@@ -17,8 +17,8 @@ master
 ## Datasets
 I tried the network on three different datasets. 
 1. Amazon Fine Food Reviews dataset
-2. Github issues dataset
-3. All the news dataset
+2. github issues dataset
+3. all the news dataset
 
 All Three of them are available on Kaggle:
 - https://www.kaggle.com/snap/amazon-fine-food-reviews/data

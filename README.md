@@ -1,6 +1,11 @@
 # Text_Summarization_with_Tensorflow
+patch-2
 Implementation of a seq2seq model for summarization of textual data using the latest version of tensorflow. \
 Demonstrated on amazon reviews, Github issues and news articles. 
+
+Implementation of a Seq2seqmodel for Summarization of textual data using the latest version of tensorflow. \
+Demonstrated on amazon reviews, github issues and news articles. 
+master
 
 ## Prerequisites
 - Tensorflow

@@ -5,6 +5,10 @@ import tensorflow as tf
 from tensorflow.python.layers.core import Dense
 
 import summarizer_model_utils
+#def my_function(fname, lname):
+ # print(fname + " " + lname)
+
+#my_function("Emil", "Refsnes")
 
 
 class Summarizer:

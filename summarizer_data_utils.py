@@ -6,6 +6,8 @@ from collections import Counter
 
 import nltk
 import numpy as np
+#import mymodule
+
 
 
 def preprocess_sentence(text, keep_most=False):

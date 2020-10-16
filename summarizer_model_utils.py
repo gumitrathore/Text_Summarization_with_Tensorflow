@@ -45,6 +45,7 @@ def pad_sequences(sequences, pad_tok, tail=True):
         sequence_length += [min(len(seq), max_length)]
 
     return sequence_padded, sequence_length
+#def my_function(country = "Norway"):
 
 
 def sample_results(preds, ind2word, word2ind, converted_summaries, converted_texts, use_bleu=False):

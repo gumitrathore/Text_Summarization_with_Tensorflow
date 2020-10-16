@@ -1,6 +1,8 @@
 import numpy as np
 import tensorflow as tf
 from nltk.translate.bleu_score import sentence_bleu
+#def my_function():
+  #print("Hello from a function")
 
 
 def minibatches(inputs, targets, minibatch_size):
